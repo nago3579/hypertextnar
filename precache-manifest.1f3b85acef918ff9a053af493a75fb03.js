@@ -1,27 +1,27 @@
 self.__precacheManifest = [
   {
-    "revision": "dc6926df4eca45f8affa",
-    "url": "/hypertextnar/static/js/app.2844bf4f.chunk.js"
+    "revision": "532d73fa6dfec771d293",
+    "url": "/hypertextnar/static/js/app.e5f0dc25.chunk.js"
   },
   {
     "revision": "84a992015562b767bb06",
     "url": "/hypertextnar/static/js/runtime~app.f87f939f.js"
   },
   {
-    "revision": "595d3d161f206b4e416a",
-    "url": "/hypertextnar/static/js/2.f50f8286.chunk.js"
+    "revision": "819ecc707fea1ea987f3",
+    "url": "/hypertextnar/static/js/2.ef116788.chunk.js"
   },
   {
-    "revision": "7a7bc7ead25db795e58b336f04d2624c",
-    "url": "/hypertextnar/favicon.ico"
+    "revision": "d0c694b562b2208635f250762cd7fc79",
+    "url": "/hypertextnar/serve.json"
   },
   {
     "revision": "48c7ed4e7da9792af288a60d7242d615",
     "url": "/hypertextnar/expo-service-worker.js"
   },
   {
-    "revision": "d0c694b562b2208635f250762cd7fc79",
-    "url": "/hypertextnar/serve.json"
+    "revision": "7a7bc7ead25db795e58b336f04d2624c",
+    "url": "/hypertextnar/favicon.ico"
   },
   {
     "revision": "de896701fdc3a300a2a8e1067c04b4e1",
@@ -88,23 +88,23 @@ self.__precacheManifest = [
     "url": "/hypertextnar/apple/splash/icon_828x1792.png"
   },
   {
-    "revision": "e2103d2a1662badfce4d00928fb2ec0a",
+    "revision": "2a079dcc6b1e9865810c57957a2cd99e",
     "url": "/hypertextnar/index.html"
-  },
-  {
-    "revision": "f6d81a13b9a10b211ff376d638a59b39",
-    "url": "/hypertextnar/static/js/app.2844bf4f.chunk.js.gz"
   },
   {
     "revision": "606800bc3f70b1c2a8ffe4d8ab50e9ea",
     "url": "/hypertextnar/static/js/runtime~app.f87f939f.js.gz"
   },
   {
+    "revision": "bb5c1d59e2551c11b75032e278cd3e37",
+    "url": "/hypertextnar/static/js/app.e5f0dc25.chunk.js.gz"
+  },
+  {
     "revision": "4a2a8019995a0671e46de9607f5dfe6c",
     "url": "/hypertextnar/expo-service-worker.js.gz"
   },
   {
-    "revision": "f7bf49919f49bfa60b06396e42abfbeb",
-    "url": "/hypertextnar/static/js/2.f50f8286.chunk.js.gz"
+    "revision": "26c44b74b1c4e012a67383f345282100",
+    "url": "/hypertextnar/static/js/2.ef116788.chunk.js.gz"
   }
 ];
