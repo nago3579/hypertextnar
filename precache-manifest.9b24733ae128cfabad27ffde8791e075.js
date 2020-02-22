@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "532d73fa6dfec771d293",
-    "url": "/hypertextnar/static/js/app.e5f0dc25.chunk.js"
+    "revision": "0917162ff982815cf46c",
+    "url": "/hypertextnar/static/js/app.cb9f84c9.chunk.js"
   },
   {
     "revision": "84a992015562b767bb06",
     "url": "/hypertextnar/static/js/runtime~app.f87f939f.js"
   },
   {
-    "revision": "819ecc707fea1ea987f3",
-    "url": "/hypertextnar/static/js/2.ef116788.chunk.js"
+    "revision": "415fb9ce252a9ad93395",
+    "url": "/hypertextnar/static/js/2.7164fd47.chunk.js"
   },
   {
     "revision": "d0c694b562b2208635f250762cd7fc79",
@@ -88,23 +88,23 @@ self.__precacheManifest = [
     "url": "/hypertextnar/apple/splash/icon_828x1792.png"
   },
   {
-    "revision": "2a079dcc6b1e9865810c57957a2cd99e",
+    "revision": "60d2064110523765d8b2205a9bb42085",
     "url": "/hypertextnar/index.html"
+  },
+  {
+    "revision": "af1c3627d0160f06ba9ce88857b4a1b8",
+    "url": "/hypertextnar/static/js/app.cb9f84c9.chunk.js.gz"
   },
   {
     "revision": "606800bc3f70b1c2a8ffe4d8ab50e9ea",
     "url": "/hypertextnar/static/js/runtime~app.f87f939f.js.gz"
   },
   {
-    "revision": "bb5c1d59e2551c11b75032e278cd3e37",
-    "url": "/hypertextnar/static/js/app.e5f0dc25.chunk.js.gz"
-  },
-  {
     "revision": "4a2a8019995a0671e46de9607f5dfe6c",
     "url": "/hypertextnar/expo-service-worker.js.gz"
   },
   {
-    "revision": "26c44b74b1c4e012a67383f345282100",
-    "url": "/hypertextnar/static/js/2.ef116788.chunk.js.gz"
+    "revision": "2f477fa8681c7bb3bc58d2774725ffd5",
+    "url": "/hypertextnar/static/js/2.7164fd47.chunk.js.gz"
   }
 ];

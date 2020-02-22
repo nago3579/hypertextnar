@@ -1,10 +1,10 @@
 {
-  "app.js": "/hypertextnar/static/js/app.e5f0dc25.chunk.js",
-  "app.532d73fa6dfec771d293.map": "/hypertextnar/532d73fa6dfec771d293.map",
+  "app.js": "/hypertextnar/static/js/app.cb9f84c9.chunk.js",
+  "app.0917162ff982815cf46c.map": "/hypertextnar/0917162ff982815cf46c.map",
   "runtime~app.js": "/hypertextnar/static/js/runtime~app.f87f939f.js",
   "runtime~app.84a992015562b767bb06.map": "/hypertextnar/84a992015562b767bb06.map",
-  "static/js/2.ef116788.chunk.js": "/hypertextnar/static/js/2.ef116788.chunk.js",
-  "819ecc707fea1ea987f3.map": "/hypertextnar/819ecc707fea1ea987f3.map",
+  "static/js/2.7164fd47.chunk.js": "/hypertextnar/static/js/2.7164fd47.chunk.js",
+  "415fb9ce252a9ad93395.map": "/hypertextnar/415fb9ce252a9ad93395.map",
   "apple/icons/icon_180x180.png": "/hypertextnar/apple/icons/icon_180x180.png",
   "apple/icons/icon_192x192.png": "/hypertextnar/apple/icons/icon_192x192.png",
   "apple/icons/icon_512x512.png": "/hypertextnar/apple/icons/icon_512x512.png",
@@ -25,10 +25,10 @@
   "favicon.ico": "/hypertextnar/favicon.ico",
   "index.html": "/hypertextnar/index.html",
   "manifest.json": "/hypertextnar/manifest.json",
-  "precache-manifest.1f3b85acef918ff9a053af493a75fb03.js": "/hypertextnar/precache-manifest.1f3b85acef918ff9a053af493a75fb03.js",
+  "precache-manifest.9b24733ae128cfabad27ffde8791e075.js": "/hypertextnar/precache-manifest.9b24733ae128cfabad27ffde8791e075.js",
   "serve.json": "/hypertextnar/serve.json",
   "service-worker.js": "/hypertextnar/service-worker.js",
-  "static/js/2.ef116788.chunk.js.gz": "/hypertextnar/static/js/2.ef116788.chunk.js.gz",
-  "static/js/app.e5f0dc25.chunk.js.gz": "/hypertextnar/static/js/app.e5f0dc25.chunk.js.gz",
+  "static/js/2.7164fd47.chunk.js.gz": "/hypertextnar/static/js/2.7164fd47.chunk.js.gz",
+  "static/js/app.cb9f84c9.chunk.js.gz": "/hypertextnar/static/js/app.cb9f84c9.chunk.js.gz",
   "static/js/runtime~app.f87f939f.js.gz": "/hypertextnar/static/js/runtime~app.f87f939f.js.gz"
 }
