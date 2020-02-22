@@ -1,42 +1,33 @@
 import React, { Component } from 'react';
-import { Text, View, Platform, StyleSheet, TextInput} from 'react-native';
+import { Text, View, Platform, StyleSheet, TextInput, Button} from 'react-native';
 
-const PassSelector = props => {
-  const [epas, setPass] = useState  ("");
+export default function PassSelector(props) {
+  const [epas, onChangeText] = React.useState('ENTER ADMINISTRATOR PASSWORD');
 
-  const passwordHandler = (inputText) => {
-    setPass(inputText);
-  };
-
-  return(
-    <View style={styles.rowStyle}>
-      <TextInput
-      placeholder="ENTER ADMINISTRATOR PASSWORD"
-      style={styles.textBoxStyle}
-      onChangeText={passwordHandler}
-      value={epas}
-      />
-      <Button title="ENTER" onPress={props.checkPass.bind(this, epas)}/>
-    </View>
+  return (
+    <View style={styles.cn}>
+        <TextInput
+        style={styles.type}
+        onChangeText={text => onChangeText(text)}
+        value={epas}
+        />
+        <Button style={styles.type} title="ENTER" onPress={() => this.props.cpass(epas)}/>
+      </View>
   );
-};
+}
+
+
 
 const styles = StyleSheet.create({
-  rowStyle: {
-    flexDirection: "row",
-    justifyContent: "space-between",
-    alignItems: "center",
-    color: "#008F11",
-    fontFamily: "monospace",
+  cn: {
+    flex: 1,
+    backgroundColor: '#000000',
+    padding: 1,
   },
-  textBoxStyle: {
-    borderBottomColor: "black",
-    borderBottomWidth: 1,
-    padding: 10,
-    width: "80%",
+  type: {
     color: "#008F11",
     fontFamily: "monospace",
-  }
+    fontSize: 20,
+    textAlign: 'left',
+  },
 });
-
-export default PassSelector;

@@ -10,7 +10,7 @@ export default class AText extends Component
         this.index = 0;
         this.typing_timer = -1;
         this.state = { text: '', slowText: true};
-        this.handleClick = this.handleClick.bind(this);
+        //this.handleClick = this.handleClick.bind(this);
     }
     componentDidMount()
     {
@@ -21,20 +21,21 @@ export default class AText extends Component
         clearTimeout( this.typing_timer );
         this.typing_timer = -1;
     }
-    handleClick() {
-    this.setState(state => ({
-      slowText: !state.slowText
-    }));
-  }
+  //   handleClick() {
+  //   this.setState(state => ({
+  //     slowText: !state.slowText
+  //   }));
+  // }
     typingAnimation = () =>
     {
         clearTimeout( this.typing_timer );
         this.typing_timer  = -1;
-        if(!this.state.slowText){
-          this.index = this.props.text.length;
-          this.state.text = this.props.text;
-        }
-        else if( this.index < this.props.text.length )
+        // if(!this.state.slowText){
+        //   this.index = this.props.text.length;
+        //   this.state.text = this.props.text;
+        // }
+        //else
+        if( this.index < this.props.text.length )
         {
             if( this.refs.animatedText )
             {
