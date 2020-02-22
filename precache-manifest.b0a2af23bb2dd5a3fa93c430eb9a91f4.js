@@ -92,12 +92,12 @@ self.__precacheManifest = [
     "url": "/hypertextnar/index.html"
   },
   {
-    "revision": "af1c3627d0160f06ba9ce88857b4a1b8",
-    "url": "/hypertextnar/static/js/app.cb9f84c9.chunk.js.gz"
-  },
-  {
     "revision": "606800bc3f70b1c2a8ffe4d8ab50e9ea",
     "url": "/hypertextnar/static/js/runtime~app.f87f939f.js.gz"
+  },
+  {
+    "revision": "af1c3627d0160f06ba9ce88857b4a1b8",
+    "url": "/hypertextnar/static/js/app.cb9f84c9.chunk.js.gz"
   },
   {
     "revision": "4a2a8019995a0671e46de9607f5dfe6c",
