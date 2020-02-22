@@ -12,16 +12,16 @@ self.__precacheManifest = [
     "url": "/hypertextnar/static/js/2.7164fd47.chunk.js"
   },
   {
+    "revision": "7a7bc7ead25db795e58b336f04d2624c",
+    "url": "/hypertextnar/favicon.ico"
+  },
+  {
     "revision": "d0c694b562b2208635f250762cd7fc79",
     "url": "/hypertextnar/serve.json"
   },
   {
     "revision": "48c7ed4e7da9792af288a60d7242d615",
     "url": "/hypertextnar/expo-service-worker.js"
-  },
-  {
-    "revision": "7a7bc7ead25db795e58b336f04d2624c",
-    "url": "/hypertextnar/favicon.ico"
   },
   {
     "revision": "de896701fdc3a300a2a8e1067c04b4e1",
